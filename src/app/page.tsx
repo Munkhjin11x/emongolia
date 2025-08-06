@@ -24,7 +24,7 @@ export default function Home() {
         <Image
           onClick={handleOpen}
           className="rounded-md"
-          src="/unemleh.png"
+          src="/unemleh-front.png"
           alt="home"
           width={1000}
           height={1000}
